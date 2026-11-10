@@ -26,12 +26,7 @@ Me apasiona el desarrollo de software, la programación competitiva, el procesam
 
 ---
 
-### Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jesus-502&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-502&layout=compact&theme=dark" alt="Lenguajes más usados" />
-</p>
 <!--
 **Jesus-502/Jesus-502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
